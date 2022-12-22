@@ -1,5 +1,5 @@
 # TUAS
-Video game salah satu bentuk program komputer yang digunakan untuk sarana hiburan dan relaksasi, tetapi juga dapat digunakan untuk kompetisi dan pembelajaran komputer. Beberapa video game dirancang untuk membantu meningkatkan keterampilan motorik halus dan koordinasi tangan-mata.
+Video game adalah salah satu bentuk program komputer yang digunakan untuk sarana hiburan dan relaksasi, tetapi juga dapat digunakan untuk kompetisi dan pembelajaran komputer. Beberapa video game dirancang untuk membantu meningkatkan keterampilan motorik halus dan koordinasi tangan-mata.
 
 Video game pertama dibuat prototipe pada tahun 1950-an dan 1960-an, pada tahun 1970-an ada seluruh industri yang dibuat di sekitar video game. Faktanya, begitu banyak video game yang diproduksi pada tahun 1983, industri tersebut mengalami krisis karena terlalu banyak game berkualitas rendah yang dibuat.
 
